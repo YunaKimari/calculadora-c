@@ -1,6 +1,9 @@
 ## Calculadora em C
 Uma calculadora simples em C com interface de terminal, que realiza as quatro operações básicas (soma, subtração, multiplicação e divisão).
 
+## 🎮 Sobre o projeto
+Este projeto consiste em uma calculadora desenvolvida em linguagem C, com interface via terminal e foco na simplicidade e clareza do código. A aplicação permite ao usuário realizar operações matemáticas básicas - adição, subtração, multiplicação e divisão - com tratamento para erros como divisão por zero. O objetivo principal é exercitar conceitos fundamentais da programação procedural, como uso de funções estruturas condicionais, laços de repetição e entrada de dados.
+
 ## 🔧 Funcionalidades
 - Menu interativo no terminal.
 - Tratamento de divisão por zero.
@@ -40,8 +43,13 @@ Este projeto está licenciado sob a Licença MIT.
 - YunaKimari (Denise Rocha)
 - GitHub: github.com/YunaKimari
 
+---
+
 ## C Calculator
 A simple C calculator with a terminal interface, performing the four basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+## 🎮 About th project
+This project is a calculator built using the C programming language, featuring a terminal-based interface and a focus on simplicity and code clarity. It allows users to perform basic arithmetic operations - addition, subtraction, multiplication, and division - with error handling for cases like division by zero. The main goal is to practice core procedural programming concepts such as function usage, conditional logic, loops, and user input handling.
 
 ## 🔧 Features
 - Interactive terminal menu.

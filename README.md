@@ -10,8 +10,8 @@ Este projeto consiste em uma calculadora desenvolvida em linguagem C, com interf
 - Funções separadas para cada operação.
 
 ## 📁 Estrutura do projeto
-- calculadora.c: Código principal.
-- README.md: Este arquivo (em português e em inglês).
+- `calculadora.c`: Código principal.
+- `README.md`: Este arquivo (em português e em inglês).
 
 ## 🚀 Como compilar e executar
 ##### Usando GCC:
@@ -57,8 +57,8 @@ This project is a calculator built using the C programming language, featuring a
 - Separate functions for each operation.
 
 ## 📁 Project structure
-- calculadora.c: Main code.
-- README.md: This file (in Portuguese and in English).
+- `calculadora.c`: Main code.
+- `README.md`: This file (in both Portuguese and English)
 
 ## 🚀 How to compile and run
 ##### Using GCC:

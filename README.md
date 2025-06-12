@@ -58,7 +58,7 @@ This project is a calculator built using the C programming language, featuring a
 
 ## 📁 Project structure
 - `calculadora.c`: Main code.
-- `README.md`: This file (in both Portuguese and English)
+- `README.md`: This file (in both Portuguese and English).
 
 ## 🚀 How to compile and run
 ##### Using GCC:

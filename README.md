@@ -1,4 +1,6 @@
-## Calculadora em C ![C](https://img.shields.io/badge/C-Programming-00599C?logo=c)
+## Calculadora em C 
+![C](https://img.shields.io/badge/C-Programming-00599C?logo=c)
+
 Uma calculadora simples em C com interface de terminal, que realiza as quatro operações básicas (soma, subtração, multiplicação e divisão).
 
 ## 🎮 Sobre o projeto
@@ -45,7 +47,9 @@ Este projeto está licenciado sob a Licença MIT.
 
 ---
 
-## C Calculator ![C](https://img.shields.io/badge/C-Programming-00599C?logo=c)
+## C Calculator 
+![C](https://img.shields.io/badge/C-Programming-00599C?logo=c)
+
 A simple C calculator with a terminal interface, performing the four basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 ## 🎮 About th project
